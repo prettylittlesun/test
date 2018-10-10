@@ -1,2 +1,2 @@
 # test
-This is a test repository
+let's begin using GitHub.
